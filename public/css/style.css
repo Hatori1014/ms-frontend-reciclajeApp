@@ -1,0 +1,18 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  background: url("../assets/Foto.jpg");
+}
+.custom-col {
+  border-radius: 1rem;
+  width: 30%;
+  padding: 2rem;
+  background: rgba(41, 212, 69, 0.253);
+}
+label{
+  color: rgb(34, 34, 34);
+}
